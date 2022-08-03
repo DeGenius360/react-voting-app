@@ -1,0 +1,1575 @@
+[
+    {
+        "_id": "SPORTS PERSONALITY FEMALE",
+        "nominees": [
+            {
+                "_id": "60eeb5a6f4eaa400045c8bde",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Irene Aku Menlawiah",
+                "nomination_category": "SPORTS PERSONALITY FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625640117/pensaumat_executive/dpz4x7i6inpwcu61rbw6.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb5eaf4eaa400045c8be0",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Abaswe Jennifer",
+                "nomination_category": "SPORTS PERSONALITY FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625640117/pensaumat_executive/dpz4x7i6inpwcu61rbw6.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb60ff4eaa400045c8be1",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Agnes Serwaa Antwi",
+                "nomination_category": "SPORTS PERSONALITY FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625640117/pensaumat_executive/dpz4x7i6inpwcu61rbw6.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb64cf4eaa400045c8be2",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Christina Eshun",
+                "nomination_category": "SPORTS PERSONALITY FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625640117/pensaumat_executive/dpz4x7i6inpwcu61rbw6.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "STUDENT ARTISTE OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60eeb683f4eaa400045c8be3",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Edward Amoah (Puncha)",
+                "nomination_category": "STUDENT ARTISTE OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626778958/umex_nominee/mo1nlwn0hbavwbbiaxky.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb691f4eaa400045c8be4",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Ezra Arthur (RhymezKey)",
+                "nomination_category": "STUDENT ARTISTE OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626779010/umex_nominee/lbtwsuhehxwtnnqvqagb.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb6a9f4eaa400045c8be5",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Kekeli Atsu (Kelly Stacks)",
+                "nomination_category": "STUDENT ARTISTE OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626779112/umex_nominee/zjgxvupn4jmpmlwsampm.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb6c3f4eaa400045c8be6",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Martin Nii Barrow",
+                "nomination_category": "STUDENT ARTISTE OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626779179/umex_nominee/yodk9dpq0gvv0hei3fxd.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb6e1f4eaa400045c8be7",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Three Lines",
+                "nomination_category": "STUDENT ARTISTE OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "STUDENTS GROUP OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60eeb75bf4eaa400045c8bec",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Team 69",
+                "nomination_category": "STUDENTS GROUP OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb76bf4eaa400045c8bed",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "University Choir",
+                "nomination_category": "STUDENTS GROUP OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb779f4eaa400045c8bee",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Blasters",
+                "nomination_category": "STUDENTS GROUP OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb788f4eaa400045c8bef",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "WINE",
+                "nomination_category": "STUDENTS GROUP OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb7a9f4eaa400045c8bf1",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Rotaract",
+                "nomination_category": "STUDENTS GROUP OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "STUDENT PHOTOGRAPHER OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60eeb8f9f4eaa400045c8bf9",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Afrifa Afful Brigadier (Kobby Muller)",
+                "nomination_category": "STUDENT PHOTOGRAPHER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626780501/umex_nominee/wljwtjyt42hp6ti42hub.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb90ff4eaa400045c8bfa",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Kyere Clement (Linksimages)",
+                "nomination_category": "STUDENT PHOTOGRAPHER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626780543/umex_nominee/jwsz5funjfpdo7t0b0ur.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb92bf4eaa400045c8bfb",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Obed Afful (Opana)",
+                "nomination_category": "STUDENT PHOTOGRAPHER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626780762/umex_nominee/zgkan42qrbnfykzg99bs.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "RADIO PERSONALITY OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60eeb33ef4eaa400045c8bcb",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Adjetey James (Silicon)",
+                "nomination_category": "RADIO PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626778465/umex_nominee/zyhqrgbihsi8xfd7ebs3.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb352f4eaa400045c8bcc",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Agnes Serwaa Antwi",
+                "nomination_category": "RADIO PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626778528/umex_nominee/kfpkpecev9jzmzwbnppa.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb376f4eaa400045c8bcd",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Daisy Mensah",
+                "nomination_category": "RADIO PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626777605/umex_nominee/xb4cxuerefwp2h6g8yok.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb3c6f4eaa400045c8bce",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Priscilla Afful",
+                "nomination_category": "RADIO PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626778555/umex_nominee/iktlfkyksibnmxt1phcn.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "INFLUENTIAL STUDENT OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60eeaca8f4eaa400045c8ba9",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Ayepah Essel (Kingdom Child)",
+                "nomination_category": "INFLUENTIAL STUDENT OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeacc4f4eaa400045c8baa",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Abdul Basit (Chairman Scorch)",
+                "nomination_category": "INFLUENTIAL STUDENT OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776890/umex_nominee/ffwamnnuiw6ghkyh85ed.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeacd4f4eaa400045c8bab",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Cosby Eyison",
+                "nomination_category": "INFLUENTIAL STUDENT OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776919/umex_nominee/xodxlh4f7t03gnd5tqs5.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeace2f4eaa400045c8bac",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "David Crentsil (Official Crent)",
+                "nomination_category": "INFLUENTIAL STUDENT OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776991/umex_nominee/lj0phi9yuhwm5hgxylmi.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeacf3f4eaa400045c8bad",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Nana Akyeampon Kwakye (Nana Powers)",
+                "nomination_category": "INFLUENTIAL STUDENT OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626777095/umex_nominee/vtklw2ihbmg84dqxx6iw.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eead14f4eaa400045c8bae",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Sarpong Albert (Trebla)",
+                "nomination_category": "INFLUENTIAL STUDENT OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626777214/umex_nominee/jz7vcsscawygwge19d9e.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "SOCIAL EVENT OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60eeb453f4eaa400045c8bcf",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Breaking the 8 (TESCON)",
+                "nomination_category": "SOCIAL EVENT OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb46ff4eaa400045c8bd0",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Food Bazaar and Flash Sale (WINE)",
+                "nomination_category": "SOCIAL EVENT OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb491f4eaa400045c8bd2",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Abuburo Kosua (Blasters)",
+                "nomination_category": "SOCIAL EVENT OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "SOCIAL MEDIA INFLUENCER",
+        "nominees": [
+            {
+                "_id": "60eeb4bbf4eaa400045c8bd3",
+                "vote": 0,
+                "special_vote": 101,
+                "name": "Alfredtina Akua Abrafi Appiah",
+                "nomination_category": "SOCIAL MEDIA INFLUENCER",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626777513/umex_nominee/vsmxni1mka9zbmazoplp.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb4e4f4eaa400045c8bd5",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Amissah Emmanuel (EmmaDor)",
+                "nomination_category": "SOCIAL MEDIA INFLUENCER",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626778780/umex_nominee/erjyy6hvgizeqohojdbc.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb4fbf4eaa400045c8bd6",
+                "vote": 0,
+                "special_vote": 1,
+                "name": "David Crentsil (Official Crent)",
+                "nomination_category": "SOCIAL MEDIA INFLUENCER",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776991/umex_nominee/lj0phi9yuhwm5hgxylmi.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "BEST LECTURER OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60ee980ff4eaa400045c8b51",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Dr. Henry Otoo",
+                "nomination_category": "BEST LECTURER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee981cf4eaa400045c8b52",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Obama",
+                "nomination_category": "BEST LECTURER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee983af4eaa400045c8b53",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Mr. Ernest Adadze",
+                "nomination_category": "BEST LECTURER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9848f4eaa400045c8b54",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Mr. Isaac Aidoo",
+                "nomination_category": "BEST LECTURER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9856f4eaa400045c8b55",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Prof. Kumi Boateng",
+                "nomination_category": "BEST LECTURER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9862f4eaa400045c8b56",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Dr. Vincent M. Nofong",
+                "nomination_category": "BEST LECTURER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "BASKETBALL PLAYER OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60ee8d4ef4eaa400045c8b37",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Elijah Mensah Kordieh Jnr",
+                "nomination_category": "BASKETBALL PLAYER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626774062/umex_nominee/rzvpfbhnnmcchr3e5xz5.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee8d6bf4eaa400045c8b38",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Worlali Darabor",
+                "nomination_category": "BASKETBALL PLAYER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626774097/umex_nominee/m33tjlyoxobqc4dwr9ew.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee8d89f4eaa400045c8b39",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Albert Gyasi Sarpong",
+                "nomination_category": "BASKETBALL PLAYER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626774314/umex_nominee/g2m4t4zj3ulzzpr4jxbe.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee8d98f4eaa400045c8b3a",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Akyeampong Wiafe Kwadwo",
+                "nomination_category": "BASKETBALL PLAYER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626774179/umex_nominee/vcg7cegnomscmazrgxt4.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "FACE OF FRESHMEN MEN",
+        "nominees": [
+            {
+                "_id": "60ee9b21f4eaa400045c8b67",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Alfred Essuman Acquah",
+                "nomination_category": "FACE OF FRESHMEN MEN",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776377/umex_nominee/cwlawpqne9zwerbkkiph.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9b2df4eaa400045c8b68",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Bennett Kobina Gyasi",
+                "nomination_category": "FACE OF FRESHMEN MEN",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776401/umex_nominee/ui36iz3llbockektc21a.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9b3bf4eaa400045c8b69",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Kwow Nyan Fraikue",
+                "nomination_category": "FACE OF FRESHMEN MEN",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776440/umex_nominee/y8an0omey17fmmfrmu3j.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "INSTRUMENTALIST OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60eea427f4eaa400045c8b8c",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Ackam Favourite",
+                "nomination_category": "INSTRUMENTALIST OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eea458f4eaa400045c8b8d",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Emmanuel Ewereko (Lopez)",
+                "nomination_category": "INSTRUMENTALIST OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626777349/umex_nominee/d1ogekr8dx1kmlijahak.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eea4c2f4eaa400045c8b8e",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Otchere Frederick (Cobby Kheys) ",
+                "nomination_category": "INSTRUMENTALIST OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eea544f4eaa400045c8b90",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Kevin",
+                "nomination_category": "INSTRUMENTALIST OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "MOST ACTIVE FOREIGN STUDENT",
+        "nominees": [
+            {
+                "_id": "60eea84bf4eaa400045c8b98",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Bah Boubacar",
+                "nomination_category": "MOST ACTIVE FOREIGN STUDENT",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626773851/umex_nominee/jyehw476yetrnd9rglqq.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eea85df4eaa400045c8b99",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Borboh Mark",
+                "nomination_category": "MOST ACTIVE FOREIGN STUDENT",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626773911/umex_nominee/vw7al9jc2tn9pmqxidg9.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eea8aef4eaa400045c8b9b",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Traore Mohamed",
+                "nomination_category": "MOST ACTIVE FOREIGN STUDENT",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626773988/umex_nominee/xs2fqbxg88xrp7btrzw2.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "SPORTS PERSONALITY MALE",
+        "nominees": [
+            {
+                "_id": "60eeb528f4eaa400045c8bd8",
+                "vote": 0,
+                "special_vote": 2,
+                "name": "Kwadwo Ntow Amponsah",
+                "nomination_category": "SPORTS PERSONALITY MALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb538f4eaa400045c8bd9",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Alhassan Najib M. Toure",
+                "nomination_category": "SPORTS PERSONALITY MALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb548f4eaa400045c8bda",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Osei Gyasi William",
+                "nomination_category": "SPORTS PERSONALITY MALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb558f4eaa400045c8bdb",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Djaba Micheal Akor",
+                "nomination_category": "SPORTS PERSONALITY MALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb56ef4eaa400045c8bdc",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Afful Augustine Le-maire",
+                "nomination_category": "SPORTS PERSONALITY MALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb57ff4eaa400045c8bdd",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Arhinful Kofi Afenye (Jnr Ssidy)",
+                "nomination_category": "SPORTS PERSONALITY MALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "ELEGANT LADY OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60ee9a51f4eaa400045c8b5f",
+                "vote": 0,
+                "special_vote": 10,
+                "name": "Abigail Abakah Mensah",
+                "nomination_category": "ELEGANT LADY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626775475/umex_nominee/ktq51yf49cw1efntxx6n.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9a5ef4eaa400045c8b60",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Estella Ghansah",
+                "nomination_category": "ELEGANT LADY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626775511/umex_nominee/ypufocwy4qx3i7ra2hrj.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9a6df4eaa400045c8b61",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Andrea Innes Ewurakua",
+                "nomination_category": "ELEGANT LADY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626775548/umex_nominee/nvvqspiilr1mhvck3jt9.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9a79f4eaa400045c8b62",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Racheal Mensa-Bonsu",
+                "nomination_category": "ELEGANT LADY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626775590/umex_nominee/f8e4l8kivoygw0nmgy1x.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9aa4f4eaa400045c8b64",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Hannah Akoto Botwe",
+                "nomination_category": "ELEGANT LADY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626775676/umex_nominee/hvipjxex0b2w3f3s5ibl.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9ab1f4eaa400045c8b65",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Gertrude Acquah",
+                "nomination_category": "ELEGANT LADY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626775717/umex_nominee/smkrlidbvpfb5wvvxmf5.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9abef4eaa400045c8b66",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Emerald Edna Quarshie",
+                "nomination_category": "ELEGANT LADY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626775752/umex_nominee/ffiroqly9yhnfkkfd5ww.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "MOST FASHIONABLE MALE",
+        "nominees": [
+            {
+                "_id": "60eea948f4eaa400045c8b9d",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Addo Yirenkyi Daniel (Attitude)",
+                "nomination_category": "MOST FASHIONABLE MALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eea95ef4eaa400045c8b9e",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Bezali Kwame Danso",
+                "nomination_category": "MOST FASHIONABLE MALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eea977f4eaa400045c8b9f",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Evans Agyei (Maestro)",
+                "nomination_category": "MOST FASHIONABLE MALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eea99af4eaa400045c8ba1",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Sylvester Frimpong (Conzy)",
+                "nomination_category": "MOST FASHIONABLE MALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "FACE OF FRESHMEN FEMALE",
+        "nominees": [
+            {
+                "_id": "60ee9b5df4eaa400045c8b6a",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Angelina Owusu",
+                "nomination_category": "FACE OF FRESHMEN FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776022/umex_nominee/elz6e8olbmuju4hhripo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9b6bf4eaa400045c8b6b",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Christina Eshun",
+                "nomination_category": "FACE OF FRESHMEN FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776075/umex_nominee/s6nksxezt9sadaiduoco.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9b79f4eaa400045c8b6c",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Lilian Eshun",
+                "nomination_category": "FACE OF FRESHMEN FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625640117/pensaumat_executive/dpz4x7i6inpwcu61rbw6.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9b86f4eaa400045c8b6d",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Mansah Ellen",
+                "nomination_category": "FACE OF FRESHMEN FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776132/umex_nominee/rq7fupuizyy6tkdqybdd.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9b92f4eaa400045c8b6e",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Princess Hajara",
+                "nomination_category": "FACE OF FRESHMEN FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776184/umex_nominee/oq7luq96yg7sfrkmal2y.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9ba0f4eaa400045c8b6f",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Safowaa Obaa Yaa",
+                "nomination_category": "FACE OF FRESHMEN FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625640117/pensaumat_executive/dpz4x7i6inpwcu61rbw6.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9badf4eaa400045c8b70",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Barbara Nyanzu Bossah",
+                "nomination_category": "FACE OF FRESHMEN FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776244/umex_nominee/yzj26imjaivgglvj88ig.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9bbef4eaa400045c8b71",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Betty Naafi Gyan",
+                "nomination_category": "FACE OF FRESHMEN FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776313/umex_nominee/ohslqoqsygvwlqloduzw.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "MOST POPULAR",
+        "nominees": [
+            {
+                "_id": "60eead51f4eaa400045c8bb0",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Abdul Basit (Chairman Scorch)",
+                "nomination_category": "MOST POPULAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776890/umex_nominee/ffwamnnuiw6ghkyh85ed.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eead72f4eaa400045c8bb2",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Evans Asare (Vholtik)",
+                "nomination_category": "MOST POPULAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eead82f4eaa400045c8bb3",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Issah Jones (Move Bitch)",
+                "nomination_category": "MOST POPULAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeada9f4eaa400045c8bb4",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Johnson Ansah Danquah (PRO)",
+                "nomination_category": "MOST POPULAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeade2f4eaa400045c8bb7",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Nana Akyeampon Kwakye (Nana Powers)",
+                "nomination_category": "MOST POPULAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626777095/umex_nominee/vtklw2ihbmg84dqxx6iw.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "STUDENT LEADER OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60eeb868f4eaa400045c8bf4",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Amoah Kusi Richard (Dynamo)",
+                "nomination_category": "STUDENT LEADER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb877f4eaa400045c8bf5",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Nana Akyeampon Kwakye (Nana Powers)",
+                "nomination_category": "STUDENT LEADER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626777095/umex_nominee/vtklw2ihbmg84dqxx6iw.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb887f4eaa400045c8bf6",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Frank Obeng (Data)",
+                "nomination_category": "STUDENT LEADER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb89ff4eaa400045c8bf7",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Owiredu Kissi Samuel",
+                "nomination_category": "STUDENT LEADER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb8bcf4eaa400045c8bf8",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Maame Esi Esaaba",
+                "nomination_category": "STUDENT LEADER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625640117/pensaumat_executive/dpz4x7i6inpwcu61rbw6.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "STUDENT ENTREPRENEUR OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60ee8a69f4eaa400045c8b2f",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Ibrahim Amadu",
+                "nomination_category": "STUDENT ENTREPRENEUR OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626779316/umex_nominee/ztwytp4utw8lf2rku7om.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee8a98f4eaa400045c8b30",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Adam Yussif (AY)",
+                "nomination_category": "STUDENT ENTREPRENEUR OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626779526/umex_nominee/m2frqofqcgnpcjcuekux.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee8abef4eaa400045c8b31",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Akwasi Amponsah Okyere (Kay's Collection)",
+                "nomination_category": "STUDENT ENTREPRENEUR OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626779609/umex_nominee/qwaclhb0binfqh1dzazi.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee8ad4f4eaa400045c8b32",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Bashiru Ransford",
+                "nomination_category": "STUDENT ENTREPRENEUR OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626779637/umex_nominee/yxrf1eeifbgb0byt5io9.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee8af4f4eaa400045c8b33",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Dontoh Johnnie Plange Jnr. (Promise)",
+                "nomination_category": "STUDENT ENTREPRENEUR OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626779848/umex_nominee/j5y0hjqgnyaqvmtu8te7.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee8bccf4eaa400045c8b34",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Jacob Santos Nyame",
+                "nomination_category": "STUDENT ENTREPRENEUR OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626779919/umex_nominee/fxi3ixmuxgqpldctammo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee8bedf4eaa400045c8b35",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Nana Adwoa Konadu",
+                "nomination_category": "STUDENT ENTREPRENEUR OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626779952/umex_nominee/n01gnqkoyzuqlbgb2i56.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "STUDENT PERSONALITY OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60eeb0eef4eaa400045c8bbd",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Adzido Israel Elorm (Israelo)",
+                "nomination_category": "STUDENT PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626780158/umex_nominee/gya3ow8e8mpsstxvxqyw.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb134f4eaa400045c8bbe",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "David Crentsil (Official Crent)",
+                "nomination_category": "STUDENT PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776991/umex_nominee/lj0phi9yuhwm5hgxylmi.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb142f4eaa400045c8bbf",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Isaac Aryeetey (Boss Iyke)",
+                "nomination_category": "STUDENT PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626780211/umex_nominee/lagrifjlh7mowjwecf4q.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb156f4eaa400045c8bc0",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Bismark Takyi",
+                "nomination_category": "STUDENT PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626780269/umex_nominee/hyv3dhp2kfujxyccg7wk.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb18bf4eaa400045c8bc1",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Oppong Kwartemaa Sharine (Sharearly)",
+                "nomination_category": "STUDENT PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626780298/umex_nominee/a7plty3nbogzcy6ojvx6.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb1f2f4eaa400045c8bc2",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Andrea Innes Ewurakua",
+                "nomination_category": "STUDENT PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626780340/umex_nominee/kfgq9lryn8ebaf7jnmlo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb207f4eaa400045c8bc3",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Theodosia Naa Ayorkoh Ayi-Annum",
+                "nomination_category": "STUDENT PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626780424/umex_nominee/j91snjbywj18kaobsivg.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60f995156be78d00048a9bfd",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Abdul Rahman Mohammed(Albany Buipe)",
+                "nomination_category": "STUDENT PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626969362/umex_nominee/mhkktixynmlqbwodtmgy.png",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "VOCALIST OF THE YEAR MALE",
+        "nominees": [
+            {
+                "_id": "60eea598f4eaa400045c8b91",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Basoah Gideon Kwame",
+                "nomination_category": "VOCALIST OF THE YEAR MALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626781020/umex_nominee/xojyoq5q2jdgyxuvcxak.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eea5b0f4eaa400045c8b92",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Martin Nii Barrow",
+                "nomination_category": "VOCALIST OF THE YEAR MALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626779179/umex_nominee/yodk9dpq0gvv0hei3fxd.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eea5d6f4eaa400045c8b93",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Yeboah Boateng Andrews (Bolt)",
+                "nomination_category": "VOCALIST OF THE YEAR MALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626781147/umex_nominee/yo9iotan7hvb3aaoxd20.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eea5f4f4eaa400045c8b94",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Cris Joe-Asare",
+                "nomination_category": "VOCALIST OF THE YEAR MALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626781219/umex_nominee/ewqakq9ja7gmq69ztoah.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "STUDENT COACH OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60eeb704f4eaa400045c8be8",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Fiifi Agyir Otu",
+                "nomination_category": "STUDENT COACH OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb722f4eaa400045c8bea",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Pascal Amedzrovi",
+                "nomination_category": "STUDENT COACH OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "POLITICAL PERSONALITY OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60eeb29bf4eaa400045c8bc4",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Elvis Boafo Amponsah (Kestro)",
+                "nomination_category": "POLITICAL PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb2aaf4eaa400045c8bc5",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Frank Owusu Jnr (Brain C)",
+                "nomination_category": "POLITICAL PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb2b7f4eaa400045c8bc6",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Isaac Dadson",
+                "nomination_category": "POLITICAL PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb2cef4eaa400045c8bc7",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Isa Abugri Ali",
+                "nomination_category": "POLITICAL PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb2dff4eaa400045c8bc8",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Griffith Domful Hamah",
+                "nomination_category": "POLITICAL PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb2eff4eaa400045c8bc9",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Harry Cobbina",
+                "nomination_category": "POLITICAL PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeb306f4eaa400045c8bca",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Johnson Ansah Danquah (PRO)",
+                "nomination_category": "POLITICAL PERSONALITY OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "STUDENT ASSOCIATION OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60ee8fa9f4eaa400045c8b3c",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "AGES",
+                "nomination_category": "STUDENT ASSOCIATION OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee8fc0f4eaa400045c8b3d",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "AISEC",
+                "nomination_category": "STUDENT ASSOCIATION OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee8fcdf4eaa400045c8b3e",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "AUSIMM",
+                "nomination_category": "STUDENT ASSOCIATION OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee8ffaf4eaa400045c8b3f",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "ESESA",
+                "nomination_category": "STUDENT ASSOCIATION OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee900bf4eaa400045c8b40",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "FESA",
+                "nomination_category": "STUDENT ASSOCIATION OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9019f4eaa400045c8b41",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Amanadehye3",
+                "nomination_category": "STUDENT ASSOCIATION OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9028f4eaa400045c8b42",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "WINE",
+                "nomination_category": "STUDENT ASSOCIATION OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "RELIGIOUS PRORAME OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60ee9900f4eaa400045c8b58",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "FOCUS, GHAMSU",
+                "nomination_category": "RELIGIOUS PRORAME OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9916f4eaa400045c8b59",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "JEPECOT, AGCM",
+                "nomination_category": "RELIGIOUS PRORAME OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9923f4eaa400045c8b5a",
+                "vote": 0,
+                "special_vote": 40,
+                "name": "School of Prayer, CCF",
+                "nomination_category": "RELIGIOUS PRORAME OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9933f4eaa400045c8b5b",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Deo Gratias, University Choir",
+                "nomination_category": "RELIGIOUS PRORAME OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/c_scale,h_250,w_250/v1626246915/pensaumat_executive/pxdqnp2v5h848xof7nwe.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "MOST FASHIONABLE FEMALE",
+        "nominees": [
+            {
+                "_id": "60eea9caf4eaa400045c8ba2",
+                "vote": 0,
+                "special_vote": 1,
+                "name": "Alfredtina Akua Abrafi Appiah",
+                "nomination_category": "MOST FASHIONABLE FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626777513/umex_nominee/vsmxni1mka9zbmazoplp.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eea9e1f4eaa400045c8ba3",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Anna Wilma Brew",
+                "nomination_category": "MOST FASHIONABLE FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626777577/umex_nominee/cn3ifqzgwxffx7itdykn.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eea9f0f4eaa400045c8ba4",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Daisy Mensah",
+                "nomination_category": "MOST FASHIONABLE FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626777605/umex_nominee/xb4cxuerefwp2h6g8yok.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeaa01f4eaa400045c8ba5",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Estella Ghansah",
+                "nomination_category": "MOST FASHIONABLE FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626775511/umex_nominee/ypufocwy4qx3i7ra2hrj.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeaa60f4eaa400045c8ba7",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Pascaline Obeng Koomson",
+                "nomination_category": "MOST FASHIONABLE FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626777779/umex_nominee/kzbzvgw5zrfevwqciuqo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeaa6ff4eaa400045c8ba8",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Trudy Mowry Acheampong",
+                "nomination_category": "MOST FASHIONABLE FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625640117/pensaumat_executive/dpz4x7i6inpwcu61rbw6.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "BEST CLASS REP OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60ee942af4eaa400045c8b48",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Akoto Osei Emmanuel",
+                "nomination_category": "BEST CLASS REP OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626774699/umex_nominee/mbgjz0pcor3pelgfqggz.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee944df4eaa400045c8b4a",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Daniel Osei (Focus)",
+                "nomination_category": "BEST CLASS REP OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626775316/umex_nominee/zuvqszl4dvkoanx1ul3b.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee945cf4eaa400045c8b4b",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Donald Wiah",
+                "nomination_category": "BEST CLASS REP OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626774840/umex_nominee/cguaqxyqr5jrsc9jjhcq.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee946bf4eaa400045c8b4c",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Ebenezer Takyi (Formula)",
+                "nomination_category": "BEST CLASS REP OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626775266/umex_nominee/uimvvwmljqwwht1oluu5.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9478f4eaa400045c8b4d",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Safowaa Obaa Yaa",
+                "nomination_category": "BEST CLASS REP OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626774790/umex_nominee/vslsfc2a3s90q2iwhv7w.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee94acf4eaa400045c8b4f",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Benedicta Akorfa Edzeani",
+                "nomination_category": "BEST CLASS REP OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625640117/pensaumat_executive/dpz4x7i6inpwcu61rbw6.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "FOOTBALL PLAYER OF THE YEAR",
+        "nominees": [
+            {
+                "_id": "60ee9f4ef4eaa400045c8b73",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Arhinful Kofi Afenye (Jnr Ssidy)",
+                "nomination_category": "FOOTBALL PLAYER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776476/umex_nominee/oiut2dwuv08uagtzy2yp.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9f5bf4eaa400045c8b74",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Djaba Micheal Akor",
+                "nomination_category": "FOOTBALL PLAYER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776589/umex_nominee/zwbklfjn1ijq5kjjaoqc.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9f68f4eaa400045c8b75",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Kwadwo Ntow Amponsah",
+                "nomination_category": "FOOTBALL PLAYER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776629/umex_nominee/mwwuomzhjzhnrciopoyy.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9f77f4eaa400045c8b76",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Malik Egyir",
+                "nomination_category": "FOOTBALL PLAYER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626776755/umex_nominee/nlcnq9eppfitvfjjwbaq.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee9f83f4eaa400045c8b77",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Afful Augustine Le-maire",
+                "nomination_category": "FOOTBALL PLAYER OF THE YEAR",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "OUTSTANDING LA MEMBER",
+        "nominees": [
+            {
+                "_id": "60eeae05f4eaa400045c8bb8",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Abaare Mathew Ndebilla",
+                "nomination_category": "OUTSTANDING LA MEMBER",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626778123/umex_nominee/namngqtsw8ceyjhzzon4.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeae13f4eaa400045c8bb9",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Adjeibea Aseidu",
+                "nomination_category": "OUTSTANDING LA MEMBER",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626778182/umex_nominee/awasvutpadbn64cqkir4.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeae21f4eaa400045c8bba",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Esseel Sabinus Arthur",
+                "nomination_category": "OUTSTANDING LA MEMBER",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626778214/umex_nominee/b8mqduftchhzyutqhbo6.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeae30f4eaa400045c8bbb",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Borboh Mark",
+                "nomination_category": "OUTSTANDING LA MEMBER",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eeae6ff4eaa400045c8bbc",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Rahima Mwine Numba Osman",
+                "nomination_category": "OUTSTANDING LA MEMBER",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626778243/umex_nominee/lh2z7p3ol81mxtqnxlzq.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60f991726be78d00048a9bfc",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Albert Sarpong (Trebla)",
+                "nomination_category": "OUTSTANDING LA MEMBER",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626968432/umex_nominee/gwa7lont5ruqzr3wkby6.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "BEST CAMPAIGN MANAGER",
+        "nominees": [
+            {
+                "_id": "60ee916df4eaa400045c8b44",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Akwasi Okai Dickson (Dizkid)",
+                "nomination_category": "BEST CAMPAIGN MANAGER",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626774413/umex_nominee/sbduicx70kxnxhdc5kmd.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee935df4eaa400045c8b45",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Bismark Bimpong (Zion)",
+                "nomination_category": "BEST CAMPAIGN MANAGER",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee936af4eaa400045c8b46",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Vincent Kwame Frimpong (Washington DC)",
+                "nomination_category": "BEST CAMPAIGN MANAGER",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60ee937bf4eaa400045c8b47",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Frank Owusu Junior (Brain C)",
+                "nomination_category": "BEST CAMPAIGN MANAGER",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1625639926/pensaumat_executive/bssumyzucbibt42yx5vo.jpg",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "VOCALIST OF THE YEAR FEMALE",
+        "nominees": [
+            {
+                "_id": "60eea63ff4eaa400045c8b95",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Racheal Mensa-Bonsu",
+                "nomination_category": "VOCALIST OF THE YEAR FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626775590/umex_nominee/f8e4l8kivoygw0nmgy1x.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eea670f4eaa400045c8b96",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Mary Naa Korklu",
+                "nomination_category": "VOCALIST OF THE YEAR FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626780919/umex_nominee/dilzmcflnkzvugqjzf0s.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "60eea69af4eaa400045c8b97",
+                "vote": 0,
+                "special_vote": 0,
+                "name": "Theodosia Naa Ayorkoh Ayi-Annum",
+                "nomination_category": "VOCALIST OF THE YEAR FEMALE",
+                "profile_picture": "https://res.cloudinary.com/dwpedtwm6/image/upload/v1626780424/umex_nominee/j91snjbywj18kaobsivg.jpg",
+                "__v": 0
+            }
+        ]
+    }
+]
